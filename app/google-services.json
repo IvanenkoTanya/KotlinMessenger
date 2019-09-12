@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "924692134948",
+    "firebase_url": "https://messenger-f6cc7.firebaseio.com",
+    "project_id": "messenger-f6cc7",
+    "storage_bucket": "messenger-f6cc7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924692134948:android:c5a96aa1d68f66da",
+        "android_client_info": {
+          "package_name": "com.example.tanya.kotlinmessenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "924692134948-deiecu5erpaek7oun4q1t9m2e4653gdr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOAY-1L-TmERbyCNcOdqKNhh9re3VjFWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "924692134948-deiecu5erpaek7oun4q1t9m2e4653gdr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
